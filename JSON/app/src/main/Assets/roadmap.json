@@ -1,0 +1,12 @@
+{"roaddates":[
+  {
+    "weekday": "montag",
+    "hour": 15,
+    "min": 30,
+    "duration": 1800,
+    "vertex": [78, 80, 10, 8]
+  }
+],
+  "batterythreshold": 30,
+  "stationvertex": 8
+}
